@@ -1,0 +1,16 @@
+版本控制器的发展历史
+
+    cvs（1985）  --》 svn（2000） --》git（2005） --》github（2008）
+
+      集中式            集中式          分布式         托管网站
+
+------------
+
+回到历史
+git log 列出项目的提交
+
+git reset --hard sdsdsdsd （hard指针 指向某个commitId）
+
+git reflog  指针重指向commit 后列出此次之前的项目提交
+
+git rest  --hard assdsds(hard指针指向要编辑状态的commitId)
